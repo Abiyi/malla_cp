@@ -1,0 +1,48 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #f4f1ec;
+  color: #2e2e2e;
+  margin: 0;
+  padding: 20px;
+}
+h1 {
+  text-align: center;
+  color: #4a4a2e;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  position: relative;
+  z-index: 1;
+}
+.year-column {
+  background-color: #ebe6db;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+.year-title {
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #3d4f3a;
+}
+.materia {
+  background-color: #d7cfba;
+  padding: 8px;
+  margin: 6px 0;
+  border-radius: 4px;
+  border: 1px solid #a39885;
+  position: relative;
+}
+.codigo {
+  font-weight: bold;
+}
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 0;
+}
