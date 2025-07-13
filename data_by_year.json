@@ -1,0 +1,396 @@
+{
+  "Ciclo Com\u00fan": [],
+  "Primer A\u00f1o": [
+    {
+      "nombre": "Introducci\u00f3n al Conocimiento Cient\u00edfico",
+      "codigo": "CR101",
+      "correlativas": [
+        "CR002"
+      ]
+    },
+    {
+      "nombre": "Administraci\u00f3n I",
+      "codigo": "CR102",
+      "correlativas": [
+        "CR002"
+      ]
+    },
+    {
+      "nombre": "\u00c1lgebra",
+      "codigo": "CR103",
+      "correlativas": [
+        "CR001"
+      ]
+    },
+    {
+      "nombre": "Introducci\u00f3n a la Contabilidad",
+      "codigo": "CR104",
+      "correlativas": [
+        "CR002"
+      ]
+    },
+    {
+      "nombre": "An\u00e1lisis Matem\u00e1tico",
+      "codigo": "CR105",
+      "correlativas": [
+        "CR103"
+      ]
+    },
+    {
+      "nombre": "Microeconom\u00eda I",
+      "codigo": "CR106",
+      "correlativas": [
+        "CR103",
+        "CR002"
+      ]
+    }
+  ],
+  "Segundo A\u00f1o": [
+    {
+      "nombre": "Contabilidad Intermedia",
+      "codigo": "CR201",
+      "correlativas": [
+        "CR104"
+      ]
+    },
+    {
+      "nombre": "Derecho Privado",
+      "codigo": "CR202",
+      "correlativas": [
+        "CR101"
+      ]
+    },
+    {
+      "nombre": "Macroeconom\u00eda I",
+      "codigo": "CR203",
+      "correlativas": [
+        "CR106"
+      ]
+    },
+    {
+      "nombre": "Inform\u00e1tica Aplicada a las Ciencias Econ\u00f3micas",
+      "codigo": "CR204",
+      "correlativas": [
+        "CR101"
+      ]
+    },
+    {
+      "nombre": "Estad\u00edstica I",
+      "codigo": "CR205",
+      "correlativas": [
+        "CR105",
+        "CR204: M\u00f3dulo A (CR801) y M\u00f3dulo B (CR802)"
+      ]
+    },
+    {
+      "nombre": "Derecho Constitucional y Administrativo",
+      "codigo": "CR206",
+      "correlativas": [
+        "CR202",
+        "CR204: M\u00f3dulo D (CR804)"
+      ]
+    },
+    {
+      "nombre": "Administraci\u00f3n II",
+      "codigo": "CR207",
+      "correlativas": [
+        "CR102"
+      ]
+    },
+    {
+      "nombre": "\u00c1rea Integrada I",
+      "codigo": "CR208",
+      "correlativas": [
+        "CR101",
+        "CR102",
+        "CR104",
+        "CR106"
+      ]
+    }
+  ],
+  "Ciclo Profesional": [],
+  "Tercer A\u00f1o": [
+    {
+      "nombre": "Contabilidad Superior",
+      "codigo": "CR301",
+      "correlativas": [
+        "CR201",
+        "CR204: M\u00f3dulo A (CR801) y M\u00f3dulo B (CR802)",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Finanzas P\u00fablicas",
+      "codigo": "CR302",
+      "correlativas": [
+        "CR203",
+        "CR206",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Sistemas Administrativos",
+      "codigo": "CR303",
+      "correlativas": [
+        "CR201",
+        "CR207",
+        "CR204: M\u00f3dulo E (CR805)",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Derecho y Pr\u00e1ctica Laboral y de la Seguridad Social",
+      "codigo": "CR304",
+      "correlativas": [
+        "CR201",
+        "CR206",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Historia Econ\u00f3mica y Social",
+      "codigo": "CR305",
+      "correlativas": [
+        "CR101",
+        "CR203",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Derecho y Pr\u00e1ctica Societaria",
+      "codigo": "CR306",
+      "correlativas": [
+        "CR202",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Contabilidad de Costos",
+      "codigo": "CR307",
+      "correlativas": [
+        "CR106",
+        "CR205",
+        "CR301",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Actuaci\u00f3n Profesional I",
+      "codigo": "CR308",
+      "correlativas": [
+        "CR201",
+        "CR202",
+        "CR208",
+        "CR810",
+        "CR811"
+      ]
+    }
+  ],
+  "Cuarto A\u00f1o": [
+    {
+      "nombre": "Matem\u00e1tica Financiera y Actuarial",
+      "codigo": "CR401",
+      "correlativas": [
+        "CR202",
+        "CR203",
+        "CR205",
+        "CR207",
+        "CR204: M\u00f3dulo C (CR803)",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Sociolog\u00eda",
+      "codigo": "CR402",
+      "correlativas": [
+        "CR208",
+        "CR305",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Tributaci\u00f3n I",
+      "codigo": "CR403",
+      "correlativas": [
+        "CR302",
+        "CR304",
+        "CR306",
+        "CR307",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Estados Contables",
+      "codigo": "CR404",
+      "correlativas": [
+        "CR301",
+        "CR308",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Mercado e Instituciones Financieras",
+      "codigo": "CR405",
+      "correlativas": [
+        "CR203",
+        "CR205",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Contabilidad para la Gesti\u00f3n Empresaria",
+      "codigo": "CR406",
+      "correlativas": [
+        "CR203",
+        "CR207",
+        "CR307",
+        "CR308",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Derecho y Pr\u00e1ctica Concursal y T\u00edtulos de Cr\u00e9dito",
+      "codigo": "CR407",
+      "correlativas": [
+        "CR304",
+        "CR306",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Actuaci\u00f3n Profesional II",
+      "codigo": "CR408",
+      "correlativas": [
+        "CR303",
+        "CR304",
+        "CR306",
+        "CR307",
+        "CR308",
+        "CR810",
+        "CR811"
+      ]
+    }
+  ],
+  "Quinto A\u00f1o": [
+    {
+      "nombre": "Administraci\u00f3n y Contabilidad P\u00fablica I",
+      "codigo": "CR501",
+      "correlativas": [
+        "CR302",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Tributaci\u00f3n II",
+      "codigo": "CR502",
+      "correlativas": [
+        "CR302",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Administraci\u00f3n Financiera",
+      "codigo": "CR503",
+      "correlativas": [
+        "CR401",
+        "CR404",
+        "CR405",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Actuaci\u00f3n Profesional III",
+      "codigo": "CR504",
+      "correlativas": [
+        "CR304",
+        "CR308",
+        "CR402",
+        "CR404",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Administraci\u00f3n y Contabilidad P\u00fablica II",
+      "codigo": "CR505",
+      "correlativas": [
+        "CR501",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Auditor\u00eda",
+      "codigo": "CR506",
+      "correlativas": [
+        "CR303",
+        "CR404",
+        "CR406",
+        "CR204: M\u00f3dulo F (CR806)",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Procedimiento Tributario",
+      "codigo": "CR507",
+      "correlativas": [
+        "CR403",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Actuaci\u00f3n Profesional IV",
+      "codigo": "CR508",
+      "correlativas": [
+        "CR304",
+        "CR404",
+        "CR407",
+        "CR408",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Espacio Final de Integraci\u00f3n \u2013 PPS",
+      "codigo": "CR700",
+      "correlativas": [
+        "32 materias aprobadas",
+        "CR810",
+        "CR811"
+      ]
+    },
+    {
+      "nombre": "Idioma Ingl\u00e9s (Lectura comprensiva)",
+      "codigo": "CR810",
+      "correlativas": [
+        "CR002"
+      ]
+    },
+    {
+      "nombre": "Idioma Portugu\u00e9s (Lectura comprensiva)",
+      "codigo": "CR811",
+      "correlativas": [
+        "CR002"
+      ]
+    }
+  ]
+}
